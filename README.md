@@ -23,15 +23,17 @@ Merchant receives their bill and they can withdraw their money from the Agent.
 - `node report.js` or
 - `npm test`
 
-## Test Case:
+## Documentation:
+
+### Test Case:
 
 https://docs.google.com/spreadsheets/d/1oMAiKlrxQpu9MY92yVv1q7PnqlESaOzQgPUBcCpFexQ/edit?usp=sharing
 
-## Bug Report:
+### Bug Report:
 
 https://docs.google.com/spreadsheets/d/1t9VQ6s0WhF_Xnz5zyXgR2cX-HAvWVnDYjAs944zLpc4/edit?usp=sharing
 
-## Documentation:
+### API Documentation:
 
 https://documenter.getpostman.com/view/23167803/2sA3QwbpaG
 
